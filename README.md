@@ -22,4 +22,4 @@ In the following figure you can see the evolution of the portfolio applying the 
 
 ## References
 ***This project is based on the following article:***
-- *Will the Fed ruin my S&P500 investments?: [https://quantdare.com/automating-cryptocurrencies-investment/](https://quantdare.com/will-the-fed-ruin-my-sp500-investments/)*
+- *Will the Fed ruin my S&P500 investments?: [https://quantdare.com/will-the-fed-ruin-my-sp500-investments/](https://quantdare.com/will-the-fed-ruin-my-sp500-investments/)*
