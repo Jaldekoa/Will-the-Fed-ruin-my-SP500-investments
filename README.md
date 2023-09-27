@@ -6,8 +6,8 @@ In the following experiment, I used the S&P500 returns and the Fed conference ca
 
 In the next figure, one can see the evolution of the cumulative returns of the S&P500 and the days in which the Fed gave a press conference.
 
-### S&P500 Index (SPY) evolution + Fed Press Conference Days
-![SP500 and Fed Conference Days](https://github.com/Jaldekoa/Will-the-Fed-ruin-my-S-P500-investments/blob/main/img/Plot%201%20125.jpg?raw=true)
+***S&P500 Index (SPY) evolution + Fed Press Conference Days***
+![SP500 and Fed Conference Days](https://github.com/Jaldekoa/Will-the-Fed-ruin-my-S-P500-investments/blob/main/img/Plot%201.jpg?raw=true)
 
 ## Strategy
 To test whether Fed announcements have a negative impact on S&P500 returns, the following strategy is followed:
@@ -18,7 +18,7 @@ With this simple strategy, we can deduce what the effect of Fed press conference
 
 ## Results
 In the following figure you can see the evolution of the portfolio applying the strategy compared to the S&P500.
-![Strategy vs SP500](https://github.com/Jaldekoa/Will-the-Fed-ruin-my-S-P500-investments/blob/main/img/Plot%201%20125.jpg?raw=true)
+![Strategy vs SP500](https://github.com/Jaldekoa/Will-the-Fed-ruin-my-S-P500-investments/blob/main/img/Plot%202.jpg?raw=true)
 
 ## References
 ***This project is based on the following article:***
